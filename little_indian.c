@@ -12,6 +12,7 @@ int main()
 	printf("LE---LE");
 	else
 	printf("BE---BE");
+	printf("%s\n",__func__);
 	return 0;
 }
 	
